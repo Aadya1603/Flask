@@ -1,4 +1,4 @@
-#Introduction to Flask 
+# Introduction to Flask 
 
 #   Flask was created by Armin Ronacher in 2010 as an April Fool's joke. However,
 #   it quickly gained popularity among developers and became a serious project. 
@@ -7,7 +7,7 @@
 
 
 
-#Architecture of Flask:
+# Architecture of Flask:
 
 #   Flask is built using the WSGI (Web Server Gateway Interface) toolkit and follows the Model-View-Controller
 #   (MVC) architectural pattern. This means that Flask separates the concerns of data, presentation,
@@ -16,7 +16,7 @@
 
 
 
-#Techniques used in Flask:
+# Techniques used in Flask:
 
 #Flask uses several techniques to make web development easier and more efficient.
 # Some of these techniques include:
@@ -34,7 +34,7 @@
 
 
 
-#Examples of Flask Applications:
+# Examples of Flask Applications:
 
 #Flask is used to build a wide range of web applications, from simple blogs to complex e-commerce platforms.
 
